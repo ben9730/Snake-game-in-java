@@ -1,5 +1,4 @@
-# Snake-game-in-javav
-Simple Java Snake game.
+# Simple Java Snake game
 
 A little game that I write in Java for one of the most old school game that was in every phone Snake.
 
